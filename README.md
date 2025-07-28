@@ -11,14 +11,14 @@
 Many farmers struggle to maintain accurate records of their land use, crop yields, and assets. This hinders their ability to secure financing, insurance, and legal protections. The lack of documentation limits access to vital resources and support necessary for sustainable farming practices.
 
 ### Planned Solution:
-We are developing a digital record book platform linked to each farmer's Fayda ID. This platform will enable farmers to log and manage their agricultural data efficiently, including:
+We are developing a mobile app linked to each farmer's Fayda ID. This app will enable farmers to log and manage their agricultural data efficiently, including:
 
 - Land size and boundaries  
 - Crop rotation schedules  
 - Yields per season  
 - Equipment usage and maintenance records  
 
-The platform will also offer report generation features that farmers can use for financing and insurance applications, simplifying the process.
+The app will also offer features to generate reports that farmers can use for financing and insurance applications, simplifying the process.
 
 ### Expected Outcome:
 - Improved access to financing and insurance through accurate, verifiable records  
